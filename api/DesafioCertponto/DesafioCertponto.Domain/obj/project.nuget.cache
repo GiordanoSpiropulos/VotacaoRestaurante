@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hvZbupBtsdh+uUHitchGBvKqc5luk0a++KB2oIQcjz6Tsg5FmWhNZpmskeI/5T5mtKo6GcPgp+vJoCZ0hYoEzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCertponto.Domain\\DesafioCertponto.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Giord\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}

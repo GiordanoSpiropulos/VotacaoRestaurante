@@ -1,0 +1,17 @@
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCerponto.Infra.Data\bin\Debug\net8.0\DesafioCerponto.Infra.Data.deps.json
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCerponto.Infra.Data\bin\Debug\net8.0\DesafioCerponto.Infra.Data.runtimeconfig.json
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCerponto.Infra.Data\bin\Debug\net8.0\DesafioCerponto.Infra.Data.dll
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCerponto.Infra.Data\bin\Debug\net8.0\DesafioCerponto.Infra.Data.pdb
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCerponto.Infra.Data\bin\Debug\net8.0\DesafioCertponto.Domain.dll
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCerponto.Infra.Data\bin\Debug\net8.0\DesafioCertponto.Domain.pdb
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCerponto.Infra.Data\obj\Debug\net8.0\DesafioCerponto.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCerponto.Infra.Data\obj\Debug\net8.0\DesafioCerponto.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCerponto.Infra.Data\obj\Debug\net8.0\DesafioCerponto.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCerponto.Infra.Data\obj\Debug\net8.0\DesafioCerponto.Infra.Data.AssemblyInfo.cs
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCerponto.Infra.Data\obj\Debug\net8.0\DesafioCerponto.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCerponto.Infra.Data\obj\Debug\net8.0\DesafioCerponto.Infra.Data.csproj.CopyComplete
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCerponto.Infra.Data\obj\Debug\net8.0\DesafioCerponto.Infra.Data.dll
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCerponto.Infra.Data\obj\Debug\net8.0\refint\DesafioCerponto.Infra.Data.dll
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCerponto.Infra.Data\obj\Debug\net8.0\DesafioCerponto.Infra.Data.pdb
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCerponto.Infra.Data\obj\Debug\net8.0\DesafioCerponto.Infra.Data.genruntimeconfig.cache
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCerponto.Infra.Data\obj\Debug\net8.0\ref\DesafioCerponto.Infra.Data.dll

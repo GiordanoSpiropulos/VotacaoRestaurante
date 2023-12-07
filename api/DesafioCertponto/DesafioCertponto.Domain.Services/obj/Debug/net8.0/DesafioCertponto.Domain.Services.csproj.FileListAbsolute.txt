@@ -1,0 +1,4 @@
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Domain.Services\obj\Debug\net8.0\DesafioCertponto.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Domain.Services\obj\Debug\net8.0\DesafioCertponto.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Domain.Services\obj\Debug\net8.0\DesafioCertponto.Domain.Services.AssemblyInfo.cs
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Domain.Services\obj\Debug\net8.0\DesafioCertponto.Domain.Services.csproj.CoreCompileInputs.cache

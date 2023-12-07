@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DesafioCertponto.API.props" />
+</Project>

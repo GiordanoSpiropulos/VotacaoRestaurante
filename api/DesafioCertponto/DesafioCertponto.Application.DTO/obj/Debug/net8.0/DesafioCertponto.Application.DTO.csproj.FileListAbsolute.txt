@@ -1,0 +1,11 @@
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Application.DTO\bin\Debug\net8.0\DesafioCertponto.Application.DTO.deps.json
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Application.DTO\bin\Debug\net8.0\DesafioCertponto.Application.DTO.dll
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Application.DTO\bin\Debug\net8.0\DesafioCertponto.Application.DTO.pdb
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Application.DTO\obj\Debug\net8.0\DesafioCertponto.Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Application.DTO\obj\Debug\net8.0\DesafioCertponto.Application.DTO.AssemblyInfoInputs.cache
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Application.DTO\obj\Debug\net8.0\DesafioCertponto.Application.DTO.AssemblyInfo.cs
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Application.DTO\obj\Debug\net8.0\DesafioCertponto.Application.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Application.DTO\obj\Debug\net8.0\DesafioCertponto.Application.DTO.dll
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Application.DTO\obj\Debug\net8.0\refint\DesafioCertponto.Application.DTO.dll
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Application.DTO\obj\Debug\net8.0\DesafioCertponto.Application.DTO.pdb
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Application.DTO\obj\Debug\net8.0\ref\DesafioCertponto.Application.DTO.dll

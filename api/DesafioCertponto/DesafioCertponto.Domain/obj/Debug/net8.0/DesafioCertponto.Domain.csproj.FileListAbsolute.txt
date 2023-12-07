@@ -1,0 +1,15 @@
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Domain\bin\Debug\net8.0\DesafioCertponto.Domain.deps.json
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Domain\bin\Debug\net8.0\DesafioCertponto.Domain.dll
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Domain\bin\Debug\net8.0\DesafioCertponto.Domain.pdb
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Domain\obj\Debug\net8.0\DesafioCertponto.Domain.csproj.AssemblyReference.cache
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Domain\obj\Debug\net8.0\DesafioCertponto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Domain\obj\Debug\net8.0\DesafioCertponto.Domain.AssemblyInfoInputs.cache
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Domain\obj\Debug\net8.0\DesafioCertponto.Domain.AssemblyInfo.cs
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Domain\obj\Debug\net8.0\DesafioCertponto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Domain\obj\Debug\net8.0\DesafioCertponto.Domain.dll
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Domain\obj\Debug\net8.0\refint\DesafioCertponto.Domain.dll
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Domain\obj\Debug\net8.0\DesafioCertponto.Domain.pdb
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Domain\obj\Debug\net8.0\ref\DesafioCertponto.Domain.dll
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Domain\bin\Debug\net8.0\DesafioCertponto.Application.DTO.dll
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Domain\bin\Debug\net8.0\DesafioCertponto.Application.DTO.pdb
+C:\Users\Giord\OneDrive\Documentos\Projetos\Desafio_certponto\api\DesafioCertponto\DesafioCertponto.Domain\obj\Debug\net8.0\DesafioCertponto.Domain.csproj.CopyComplete

@@ -1,0 +1,298 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCertponto.IoC\\DesafioCertponto.IoC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCerponto.Infra.Data\\DesafioCertponto.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCerponto.Infra.Data\\DesafioCertponto.Infra.Data.csproj",
+        "projectName": "DesafioCertponto.Infra.Data",
+        "projectPath": "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCerponto.Infra.Data\\DesafioCertponto.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Giord\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCerponto.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Giord\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCertponto.Domain\\DesafioCertponto.Domain.csproj": {
+                "projectPath": "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCertponto.Domain\\DesafioCertponto.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.0-beta.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCertponto.Domain\\DesafioCertponto.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCertponto.Domain\\DesafioCertponto.Domain.csproj",
+        "projectName": "DesafioCertponto.Domain",
+        "projectPath": "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCertponto.Domain\\DesafioCertponto.Domain.csproj",
+        "packagesPath": "C:\\Users\\Giord\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCertponto.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Giord\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCertponto.IoC\\DesafioCertponto.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCertponto.IoC\\DesafioCertponto.IoC.csproj",
+        "projectName": "DesafioCertponto.IoC",
+        "projectPath": "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCertponto.IoC\\DesafioCertponto.IoC.csproj",
+        "packagesPath": "C:\\Users\\Giord\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCertponto.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Giord\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCerponto.Infra.Data\\DesafioCertponto.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCerponto.Infra.Data\\DesafioCertponto.Infra.Data.csproj"
+              },
+              "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCertponto.Service\\DesafioCertponto.Service.csproj": {
+                "projectPath": "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCertponto.Service\\DesafioCertponto.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCertponto.Service\\DesafioCertponto.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCertponto.Service\\DesafioCertponto.Service.csproj",
+        "projectName": "DesafioCertponto.Service",
+        "projectPath": "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCertponto.Service\\DesafioCertponto.Service.csproj",
+        "packagesPath": "C:\\Users\\Giord\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCertponto.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Giord\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCerponto.Infra.Data\\DesafioCertponto.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCerponto.Infra.Data\\DesafioCertponto.Infra.Data.csproj"
+              },
+              "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCertponto.Domain\\DesafioCertponto.Domain.csproj": {
+                "projectPath": "C:\\Users\\Giord\\OneDrive\\Documentos\\Projetos\\Desafio_certponto\\api\\DesafioCertponto\\DesafioCertponto.Domain\\DesafioCertponto.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.8.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
